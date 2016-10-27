@@ -1,0 +1,8 @@
+How did the code writing go for you?
+This time it wasnt very hard since the whole code was there. It was just a matter of organizing it and inserting a counter.
+
+On a scale of one to ten how confident are you that you could rewrite the sorting methods without any reference material?
+8
+
+For what array size does the difference in the number of comparisons become significant?
+For arrays with size over 100.
